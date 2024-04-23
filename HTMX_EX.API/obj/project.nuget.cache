@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MF8ChVk8UUgliEoMRtSWgFEbXsN4HaN0p2hGFYcQphVanTF0I6F8m5DapVCj0EcXEn/uYdYe/t46XBzf4+r4GQ==",
+  "success": true,
+  "projectFilePath": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.API\\HTMX_EX.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\skt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\skt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\skt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\skt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\skt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

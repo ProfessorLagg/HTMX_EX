@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\TEMP\\source\\HTMX_EX\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8C6953-78D1-48ED-9D90-CC8DC314815C}|HTMX_EX.API\\HTMX_EX.API.csproj|c:\\temp\\source\\htmx_ex\\htmx_ex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8C6953-78D1-48ED-9D90-CC8DC314815C}|HTMX_EX.API\\HTMX_EX.API.csproj|solutionrelative:htmx_ex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.API\\Program.cs",
+              "RelativeDocumentMoniker": "HTMX_EX.API\\Program.cs",
+              "ToolTip": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.API\\Program.cs",
+              "RelativeToolTip": "HTMX_EX.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:42:30.229Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
