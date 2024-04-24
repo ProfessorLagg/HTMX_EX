@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "/VTM1Vt+r2XhTVOz4Pf/szdqASIADRN9S5IaLujqboo=",
+  "Source": "HTMX_EX.GUI",
+  "BasePath": "_content/HTMX_EX.GUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HTMX_EX.GUI\\wwwroot",
+      "Source": "HTMX_EX.GUI",
+      "ContentRoot": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\",
+      "BasePath": "_content/HTMX_EX.GUI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\index.html",
+      "SourceId": "HTMX_EX.GUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\",
+      "BasePath": "_content/HTMX_EX.GUI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\js\\htmx.min.js",
+      "SourceId": "HTMX_EX.GUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\",
+      "BasePath": "_content/HTMX_EX.GUI",
+      "RelativePath": "js/htmx.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\htmx.min.js"
+    }
+  ]
+}

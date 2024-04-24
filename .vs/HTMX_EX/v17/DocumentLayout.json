@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\TEMP\\source\\HTMX_EX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|c:\\temp\\source\\htmx_ex\\htmx_ex.gui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|solutionrelative:htmx_ex.gui\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|c:\\temp\\source\\htmx_ex\\htmx_ex.gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|solutionrelative:htmx_ex.gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|c:\\temp\\source\\htmx_ex\\htmx_ex.gui\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|solutionrelative:htmx_ex.gui\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|c:\\temp\\source\\htmx_ex\\htmx_ex.gui\\htmx_ex.gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BBF3642-A8BE-47CC-A140-EA049B074903}|HTMX_EX.GUI\\HTMX_EX.GUI.csproj|solutionrelative:htmx_ex.gui\\htmx_ex.gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB8C6953-78D1-48ED-9D90-CC8DC314815C}|HTMX_EX.API\\HTMX_EX.API.csproj|c:\\temp\\source\\htmx_ex\\htmx_ex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB8C6953-78D1-48ED-9D90-CC8DC314815C}|HTMX_EX.API\\HTMX_EX.API.csproj|solutionrelative:htmx_ex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.API\\Program.cs",
-              "RelativeDocumentMoniker": "HTMX_EX.API\\Program.cs",
-              "ToolTip": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.API\\Program.cs",
-              "RelativeToolTip": "HTMX_EX.API\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvxwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T10:42:30.229Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -40,6 +43,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "HTMX_EX.GUI\\wwwroot\\index.html",
+              "ToolTip": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\index.html",
+              "RelativeToolTip": "HTMX_EX.GUI\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-24T12:35:44.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "HTMX_EX.GUI\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "HTMX_EX.GUI\\Controllers\\ContentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:30:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\Program.cs",
+              "RelativeDocumentMoniker": "HTMX_EX.GUI\\Program.cs",
+              "ToolTip": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\Program.cs",
+              "RelativeToolTip": "HTMX_EX.GUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:22:23.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HTMX_EX.GUI.csproj",
+              "DocumentMoniker": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\HTMX_EX.GUI.csproj",
+              "RelativeDocumentMoniker": "HTMX_EX.GUI\\HTMX_EX.GUI.csproj",
+              "ToolTip": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\HTMX_EX.GUI.csproj",
+              "RelativeToolTip": "HTMX_EX.GUI\\HTMX_EX.GUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T12:18:13.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.API\\Program.cs",
+              "RelativeDocumentMoniker": "HTMX_EX.API\\Program.cs",
+              "ToolTip": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.API\\Program.cs",
+              "RelativeToolTip": "HTMX_EX.API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA7wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:42:30.229Z",
+              "EditorCaption": ""
             }
           ]
         }

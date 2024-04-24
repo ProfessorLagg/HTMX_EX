@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\TEMP\\source\\HTMX_EX\\HTMX_EX.GUI\\wwwroot\\js\\htmx.min.js",
+      "PackagePath": "staticwebassets\\js\\htmx.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HTMX_EX.GUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HTMX_EX.GUI.props",
+      "PackagePath": "build\\HTMX_EX.GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HTMX_EX.GUI.props",
+      "PackagePath": "buildMultiTargeting\\HTMX_EX.GUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HTMX_EX.GUI.props",
+      "PackagePath": "buildTransitive\\HTMX_EX.GUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

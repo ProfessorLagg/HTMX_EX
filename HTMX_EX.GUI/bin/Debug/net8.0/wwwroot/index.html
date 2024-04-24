@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <script src="/htmx.min.js"></script>
+		<title>HTMX Example</title>
+	</head>
+	<body>
+        <select name="select-ex" id="select-ex" hx-get="/content/options" hx-trigger="click once" hx-target="#select-ex" hx-swap="innerHTML">
+            <option value="">--Please choose an option--</option>
+        </select>
+    </body>
+</html>

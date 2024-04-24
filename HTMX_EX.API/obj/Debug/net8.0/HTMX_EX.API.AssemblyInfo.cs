@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HTMX_EX.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c444c28a867879cde4146200a58090ce7f7d717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+254481e445e6cec7ffeb069497ca12627208fdbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("HTMX_EX.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HTMX_EX.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

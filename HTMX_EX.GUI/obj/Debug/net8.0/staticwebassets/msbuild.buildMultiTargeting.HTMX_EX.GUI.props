@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HTMX_EX.GUI.props" />
+</Project>
